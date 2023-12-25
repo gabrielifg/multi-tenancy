@@ -10,4 +10,4 @@ spec:
   policyTypes:
   - Ingress
   - Egress
-  # Adicione regras de política conforme necessário
+  # É possível adicionar mais politicas de acordo com a necessidade
